@@ -99,7 +99,6 @@
             <div class="modal-body">
                 <div class="content">
                     <div class="container">
-                        <!-- <form id="frm-schedule" action="app/includes/admission.inc.php" method="post" class="row"> -->
                         <form id="frm-schedule" method="post" class="row">
                             <div class="col-md-12">
                                 <div class="card card-default">
